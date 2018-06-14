@@ -1,3 +1,9 @@
+@font-face
+{	
+	font-family: "Oswald"
+	src:url("Oswald-Regular.ttf")
+}
+
 .image
 {
 	/* Separate the text from the images */
